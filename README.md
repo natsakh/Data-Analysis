@@ -8,7 +8,7 @@ Lecture slides of the course [here](https://sites.google.com/view/nsakhnenko-dat
 
 [Pr_2](https://github.com/natsakh/Data-Analysis/tree/main/Pr_2)  Basic algoritms of classification [video](https://drive.google.com/file/d/1MZFg7vrf0scJ2V9Ohc9lFKKGT4DFZQyI/view?usp=sharing)
 
-[Pr_3](https://github.com/natsakh/Data-Analysis/tree/main/Pr_3)  Basic algorithms of clustering
+[Pr_3](https://github.com/natsakh/Data-Analysis/tree/main/Pr_3)  Basic algorithms of clustering [video](https://drive.google.com/file/d/1eIyI4t3SkgSlmDvYyUuCBfeVb95BLdxJ/view?usp=share_link)
 
 [Pr_4](https://github.com/natsakh/Data-Analysis/tree/main/Pr_4)  Intro to NLP
 
