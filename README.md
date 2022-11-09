@@ -10,7 +10,7 @@ Lecture slides of the course [here](https://sites.google.com/view/nsakhnenko-dat
 
 [Pr_3](https://github.com/natsakh/Data-Analysis/tree/main/Pr_3)  Basic algorithms of clustering [video](https://drive.google.com/file/d/1eIyI4t3SkgSlmDvYyUuCBfeVb95BLdxJ/view?usp=share_link)
 
-[Pr_4](https://github.com/natsakh/Data-Analysis/tree/main/Pr_4)  Intro to NLP
+[Pr_4](https://github.com/natsakh/Data-Analysis/tree/main/Pr_4)  Intro to NLP [video](https://drive.google.com/file/d/1VnQ_kJH9vFWmLyEr30j3OxMEIwXdWHFF/view?usp=share_link)
 
 [Pr_5](https://github.com/natsakh/Data-Analysis/tree/main/Pr_5)  Fully Connected Neural Nets
 
