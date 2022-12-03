@@ -14,9 +14,9 @@ Lecture slides of the course [here](https://sites.google.com/view/nsakhnenko-dat
 
 [Pr_5](https://github.com/natsakh/Data-Analysis/tree/main/Pr_5)  Fully Connected Neural Nets [video](https://drive.google.com/file/d/1tQ_rnKuPzxC4lW2rmx4GqXkcRHOPfa30/view?usp=share_link)
 
-[Pr_6](https://github.com/natsakh/Data-Analysis/tree/main/Pr_6)  Conv Nets and LSTM
+[Pr_6](https://github.com/natsakh/Data-Analysis/tree/main/Pr_6)  Conv Nets and LSTM [video](https://drive.google.com/file/d/1WUOXKu7ivazqh6rlYKgdh6ZSGgYOwtYk/view?usp=share_link)
 
-[Pr_7](https://github.com/natsakh/Data-Analysis/tree/main/Pr_7) NLP with Neural Nets
+[Pr_7](https://github.com/natsakh/Data-Analysis/tree/main/Pr_7) NLP with Neural Nets [video](https://drive.google.com/file/d/10DwR6GI_G-okM-QkbqscwQHd5wwpwpxi/view?usp=share_link)
 
 [Pr_8](https://github.com/natsakh/Data-Analysis/tree/main/Pr_8) Seq2Seq Model
 
