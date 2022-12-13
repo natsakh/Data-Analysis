@@ -18,6 +18,6 @@ Lecture slides of the course [here](https://sites.google.com/view/nsakhnenko-dat
 
 [Pr_7](https://github.com/natsakh/Data-Analysis/tree/main/Pr_7) NLP with Neural Nets [video](https://drive.google.com/file/d/10DwR6GI_G-okM-QkbqscwQHd5wwpwpxi/view?usp=share_link)
 
-[Pr_8](https://github.com/natsakh/Data-Analysis/tree/main/Pr_8) Seq2Seq Model
+[Pr_8](https://github.com/natsakh/Data-Analysis/tree/main/Pr_8) Transformers [video](https://drive.google.com/file/d/1kWkXtt60qQRU0CLbdIauXmu_OoyAQ9-U/view?usp=share_link)
 
 [Pr_9](https://github.com/natsakh/Data-Analysis/tree/main/Pr_9)  GAN and VAE [video](https://drive.google.com/file/d/1Gz0Ozs0SM-fMQFLle3GzYxLWsOwQZDvq/view?usp=share_link)
